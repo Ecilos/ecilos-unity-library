@@ -1,0 +1,11 @@
+.DS_Store
+ArtifactDB
+ArtifactDB-lock
+Artifacts
+EditorInstance.json
+PackageCache/
+ShaderCache.db
+ShaderCache/
+SourceAssetDB-lock
+StateCache/
+TempArtifacts/
