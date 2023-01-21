@@ -7,6 +7,8 @@ Artifacts
 Bee/
 BuildPlayer.prefs
 EditorInstance.json
+EditorSnapSettings.asset
+LastSceneManagerSetup.txt
 PackageCache/
 PackageManager/
 SceneVisibilityState.asset
@@ -20,3 +22,4 @@ SourceAssetDB-lock
 StateCache/
 Style.catalog
 TempArtifacts/
+expandedItems
