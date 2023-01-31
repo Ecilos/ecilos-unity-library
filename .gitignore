@@ -6,6 +6,7 @@ ArtifactDB-lock
 Artifacts
 Bee/
 BuildPlayer.prefs
+BurstCache
 EditorInstance.json
 EditorSnapSettings.asset
 EditorUserBuildSettings.asset
